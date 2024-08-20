@@ -4,3 +4,9 @@
 **The methodology is simple:**
 <img width="1185" alt="image" src="https://github.com/user-attachments/assets/459d639b-1c92-4463-961f-b5730d36bad1">
 
+**Digital Evidence Life Cycle**
+<img width="642" alt="image" src="https://github.com/user-attachments/assets/d07410c4-b9a7-453b-af02-7119779d2a7c">
+
+- Acquisition
+Acquisition is the process of obtaining a forensic sound image (physically or remotely) of the evidence to be analyzed.
+- 
